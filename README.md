@@ -11,6 +11,6 @@ Olá, meu nome é Douglas <br>
 Tecnologias
 PHP<br>
 Python<br>
-JavaScript, HTML, CSS,<br>
+JavaScript, HTML, CSS, Angular<br>
 MySQL<br>
 Git, GitHUB<br>
